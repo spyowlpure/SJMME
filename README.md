@@ -1,2 +1,2 @@
 # SJMME
-MINING JOURNAL
+Upload these files to GitHub Pages to publish.
